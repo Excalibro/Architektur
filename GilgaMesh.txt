@@ -1,0 +1,11 @@
+for (unsigned int u = 0; u < GAM_Prisms; u++)
+{
+	for (unsigned int v = 0; v < GAM_Prisms; v++)
+	{
+	 if (u != v)
+	 {
+		
+		
+	 }
+	}
+}
